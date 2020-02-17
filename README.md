@@ -1,7 +1,7 @@
 # Marlin 3D Printer Firmware
 <img align="right" src="https://github.com/MarlinFirmware/Marlin/blob/2.0.x/buildroot/share/pixmaps/logo/marlin-250.png?raw=true" />
 
-## Ender 3 with Syringe Extruder
+## Ender 3 Pro with Syringe Pump Extruder
 
 This version of Marlin 1.1.9 has been modified for the Ender 3 Pro 3D printer with a syringe pump extruder. Such extruders are required for a wide range of 3D printing applications, including bioprinting, embedded printing, and food printing with a range of substances such as adhesives, gels, fluids and pastes.
 
